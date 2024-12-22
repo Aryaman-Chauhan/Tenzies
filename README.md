@@ -1,6 +1,6 @@
 ## Tenzies Game
 
-![Preview](https://github.com/Aryaman-Chauhan/Tenzies/blob/master/public/TenziesSS.png)
+![Preview](https://github.com/Aryaman-Chauhan/Tenzies/blob/main/public/TenziesSS.png)
 
 Built as part of the Bob Ziroll's [Learn React for free](https://scrimba.com/learn/learnreact) Scrimba course.
 
