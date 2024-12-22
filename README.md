@@ -13,4 +13,4 @@ I have also implemented a few additional features:
 - the app keeps track of best times and lowest # of rolls
 - those best scores are saved to local storage, so they persist when the page is refreshed
 
-[Play the Game!!!](https://Aryaman-Chauhan/github.io/Tenzies)
+[Play the Game!!!](https://Aryaman-Chauhan.github.io/Tenzies)
